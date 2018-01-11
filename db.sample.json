@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "name": "boo"
+    },
+    {
+      "name": "foo"
+    },
+    {
+      "name": "woo"
+    }
+  ],
+  "results": [
+    {
+      "point": 100,
+      "name": "boo"
+    },
+    {
+      "point": 200,
+      "name": "foo"
+    }
+  ]
+}
